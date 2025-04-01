@@ -1,0 +1,14 @@
+switch positions for the notifications and chat
+instead of search any product, write search only
+in the search space, there should be an indication on the voice record that shows that that is the icon you're clicking on
+on the Home Page, change the Recent Post to Recent Posts.
+On the Home Page, minimize the Hey Admin.
+on the Notification page, remove the Hey Admin and the logo
+On the Notification Page, add the username and image of the user that liked the Post
+Attach the like or comment icon to the image of the user
+In the Chat session, add the last message sent and a signal button to show if  seen or unseen. Add number of messages sent and time.
+Change the name "Chat List" to "Chats"
+In the chatroom session, remove the both chatroom text. add the username at the top left corner of the page, add video and voice call icon and make them functional.
+In the chatroom session, replace the Hamburger Menu with three dots arranged vertically.
+replace the pop up menu when the three dots icon is clicked with a mini menu at the top rightcorner of the page, change the icon attached to the "block" text to an X symbol, change the icon of the "report user" to danger symbol. replace the "restart messages" to the "delete chat"
+remove the "close" menu bar. the close menu bar should replaced with quick response to empty space outside the menu bar.
